@@ -2,11 +2,11 @@
 
 ![chi_pn_100](https://github.com/SNU-LIST/chi-separation-atlas/assets/49898081/381ab7a4-bc6c-40d4-a446-5c9f3b647a1c)
 
-*χ*-separation atlas provides normative paramagntic susceptibility (*χ<sub>para</sub>*) and diamagnetic susceptibility (*χ<sub>dia</sub>*) maps from 106 healthy human brains.
+*χ*-separation atlas provides normative paramagnetic susceptibility (*χ<sub>para</sub>*) and diamagnetic susceptibility (*χ<sub>dia</sub>*) maps from 106 healthy human brains.
 ### Features
 - __*χ*-separation__ templates, accompanied with __*T*<sub>1</sub>-weighted__ and __hybrid__ templates
-- ROI labels and atlas statistics
-- NIfTI (`NIfTI/*.nii.gz`) and DICOM (`DICOM/*.zip`) formats available
+- ROI labels and *χ*-separation statistics
+- NIfTI (`NIfTI/*.nii.gz`) and DICOM (`DICOM/*.zip`) formats are available
 - Registered to MNI space ([ICBM-2009c](https://nist.mni.mcgill.ca/icbm-152-nonlinear-atlases-2009/) asymmetric *T<sub>1</sub>*-weighted image template)
 
 #### Note that *χ<sub>dia</sub>* is in absolute value.
@@ -15,7 +15,7 @@
 
 - Templates
   |File name|Description|Unit|
-  |---|---|---|
+  |:---|:---|:---|
   |`chi_para`|*χ<sub>para</sub>* map|ppb|
   |`chi_dia`|*χ<sub>dia</sub>* map|ppb|
   |`t1w`|*T<sub>1</sub>*-weighted image|a.u. (0–255)|
@@ -24,7 +24,7 @@
 - Labels [1]
 
   |File name|Description|Units|
-  |---|---|---|
+  |:---|:---|:---|
   |`labels`|5 subcortical nuclei and 14 white matter fiber bundles|N/A|
   |`label_names`|Indexes and names of `labels`|N/A|
   |`prior_WM`|Population average of white matter masks|a.u. (0–255)|
@@ -33,7 +33,7 @@
 - Atlas statistics
 
   |File name|Description|Unit|
-  |---|---|---|
+  |:---|:---|:---|
   |`chi_para_rSD`|Relative SD map of *χ<sub>para</sub>*|%|
   |`chi_dia_rSD`|Relative SD map of *χ<sub>dia</sub>*|%|
   |`chi_para_ROI_stats`|Mean and SD of *χ<sub>para</sub>* in ROIs|ppb|
@@ -47,8 +47,7 @@
 </table>
 
 #### License
-We provide this software and its documentation for academic research purpose only and NOT for commercial or clinical use.
-
+We provide this software and its documentation for academic research purposes only, and it is NOT intended for commercial or clinical use.
 ***
 [1] Subcortical nuclei and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009)   
 For more details, see (upcoming) [preprint](https://list.snu.ac.kr).   
