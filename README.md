@@ -1,5 +1,7 @@
 # *chi*-separation atlas (*χ*-separation atlas, *x*-separation atlas)
 
+![chi_pn_100](https://github.com/SNU-LIST/chi-separation-atlas/assets/49898081/381ab7a4-bc6c-40d4-a446-5c9f3b647a1c)
+
 *χ*-separation atlas provides normative paramagntic susceptibility (*χ<sub>para</sub>*) and diamagnetic susceptibility (*χ<sub>dia</sub>*) maps from 106 healthy human brains.
 ### Features
 - __*χ*-separation__ templates, accompanied with __*T*<sub>1</sub>-weighted__ and __hybrid__ templates
