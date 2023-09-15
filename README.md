@@ -23,7 +23,7 @@
 
 - Labels [1]
 
-  |File name|Description|Units|
+  |File name|Description|Unit|
   |:---|:---|:---|
   |`labels`|5 subcortical nuclei and 14 white matter fiber bundles|N/A|
   |`label_names`|Indexes and names of `labels`|N/A|
