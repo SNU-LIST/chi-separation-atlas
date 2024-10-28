@@ -18,6 +18,7 @@
   |:---|:---|:---|
   |`chi_para`|*χ<sub>para</sub>* map|ppb|
   |`chi_dia`|*χ<sub>dia</sub>* map|ppb|
+  |`chi`|QSM map|ppb|
   |`t1w`|*T<sub>1</sub>*-weighted image|a.u. (0–255)|
   |`hybrid`|Hybrid image|a.u. (0–255)|
 
@@ -25,7 +26,7 @@
 
   |File name|Description|Unit|
   |:---|:---|:---|
-  |`labels`|5 subcortical nuclei and 14 white matter fiber bundles|N/A|
+  |`labels`|8 subcortical nuclei, 3 thalamic nuclei, and 13 white matter |N/A|
   |`label_names`|Indexes and names of `labels`|N/A|
   |`prior_WM`|Population average of white matter masks|a.u. (0–255)|
   |`prior`|Population average of brain masks|a.u. (0–255)|
@@ -42,13 +43,13 @@
 ### Demographics
 <table>
   <tr> <td></td> <td>Mean ± SD</td> <td>Quartiles</td> <td>Range</td> </tr>
-  <tr> <td>Age</td> <td>60.8 ± 15.8</td> <td>46, 64, 75</td> <td>27–85</td></tr>
-  <tr> <td>Sex</td><td align=center colspan="3">34 males and 72 females</td>  </tr>
+  <tr> <td>Age</td> <td>62.1 ± 15.8</td> <td>47.5, 65, 76.5</td> <td>27–85</td></tr>
+  <tr> <td>Sex</td><td align=center colspan="3">37 males and 79 females</td>  </tr>
 </table>
 
 #### License
 We provide this software and its documentation for academic research purposes only, and it is NOT intended for commercial or clinical use.
 ***
-[1] Subcortical nuclei and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009)   
-For more details, see (upcoming) [preprint](https://list.snu.ac.kr).   
-v1.0.0 | Last update: 2023/09/15
+[1] Subcortical nuclei, thalamic nuclei, and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009)   
+For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nbm.5226).
+v1.1.0 | Last update: 2024/10/29
