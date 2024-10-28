@@ -52,4 +52,5 @@ We provide this software and its documentation for academic research purposes on
 ***
 [1] Subcortical nuclei, thalamic nuclei, and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009)   
 For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nbm.5226).
+***
 v1.1.0 | Last update: 2024/10/29
