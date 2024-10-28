@@ -1,20 +1,27 @@
 Index,ROI_name
-1,Caudate
-2,Putamen
-3,Globus pallidus
-4,Substantia nigra
-5,Red nucleus
-6,Inferior cerebellar peduncle
-7,Pontine crossing tract
-8,Medial lemniscus
-9,Body of corpus callosum
-10,Splenium of corpus callosum
-11,Posterior limb of internal capsule
-12,Retrolenticular part of internal capsule
-13,Anterior corona radiata
-14,Superior corona radiata
-15,Posterior corona radiata
-16,Posterior thalamic radiation
-17,Sagittal stratum
-18,Superior longitudinal fasciculus
-19,Superior fronto-occipital fasciculus
+1,'Caudate'
+2,'Putamen'
+3,'Globus pallidus'
+4,'Nucleus accumbens'
+5,'Substantia nigra'
+6,'Red nucleus'
+7,'Ventral pallidum'
+8,'Subthalamic nucleus'
+9,'Medial thalamic nuclei'
+10,'Lateral thalamic nuclei'
+11,'Pulvinar'
+12,'Whole thalamus'
+13,'Genu of corpus callosum'
+14,'Body of of corpus callosum'
+15,'Splenium of corpus callosum'
+16,'Cerebral peduncle'
+17,'Anterior limb of internal capsule'
+18,'Posterior limb of internal capsule'
+19,'Retrolenticular part of internal capsule'
+20,'Anterior corona radiata'
+21,'Superior corona radiata'
+22,'Posterior corona radiata'
+23,'Posterior thalamic radiation'
+24,'Sagittal stratum'
+25,'Superior longitudinal fasciculus'
+26,'Whole white matter'
