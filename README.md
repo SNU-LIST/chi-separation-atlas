@@ -2,14 +2,16 @@
 
 ![chi_pn_100](https://github.com/SNU-LIST/chi-separation-atlas/assets/49898081/b08189cf-7ade-4b5c-8b28-d480389b420e)
 
-*χ*-separation atlas provides normative paramagnetic susceptibility (*χ<sub>para</sub>*) and diamagnetic susceptibility (*χ<sub>dia</sub>*) maps from 106 healthy human brains.
-For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nbm.5226).
+The *χ*-separation atlas provides normative maps of paramagnetic susceptibility (*χ<sub>para</sub>*) and diamagnetic susceptibility (*χ<sub>dia</sub>*) derived from 106 healthy human brains. For more details, refer to [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nbm.5226).
 ### Features
-- __*χ*-separation__ templates, accompanied with __*T*<sub>1</sub>-weighted__ and __hybrid__ templates
-- ROI labels and *χ*-separation statistics
-- Registered to MNI space ([ICBM-2009c](https://nist.mni.mcgill.ca/icbm-152-nonlinear-atlases-2009/) asymmetric *T<sub>1</sub>*-weighted image template)
+- __*χ*-separation__ templates
+  - Accompanied by __*T*<sub>1</sub>-weighted__ and __hybrid__ templates
+- ROI labels
+  - With associated *χ*-separation statistics
+- MNI space registration
+  - All templates are registered to the [MNI ICBM-2009c](https://nist.mni.mcgill.ca/icbm-152-nonlinear-atlases-2009/) asymmetric *T<sub>1</sub>*-weighted image template
 
-#### Note that *χ<sub>dia</sub>* atlas is in absolute value.
+> **Note:** The *χ<sub>dia</sub>* atlas is provided in absolute values.
 
 ### Contents
 
@@ -22,7 +24,7 @@ For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nb
   |`t1w`|*T<sub>1</sub>*-weighted image|a.u. (0–1)|
   |`hybrid`|Hybrid image|a.u. (0–1)|
 
-- Labels [1]
+- Labels
 
   |File name|Description|Unit|
   |:---|:---|:---|
@@ -35,8 +37,8 @@ For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nb
 
   |File name|Description|Unit|
   |:---|:---|:---|
-  |`chi_para_rSD`|Relative SD map of *χ<sub>para</sub>*||
-  |`chi_dia_rSD`|Relative SD map of *χ<sub>dia</sub>*||
+  |`chi_para_rSD`|Relative SD map of *χ<sub>para</sub>*|N/A|
+  |`chi_dia_rSD`|Relative SD map of *χ<sub>dia</sub>*|N/A|
   |`chi_para_ROI_stats`|Mean and SD of *χ<sub>para</sub>* in ROIs|ppb|
   |`chi_dia_ROI_stats`|Mean and SD of *χ<sub>dia</sub>* in ROIs|ppb|
 
@@ -47,8 +49,17 @@ For more details, see [Min et al., NMR Biomed., 2024](https://doi.org/10.1002/nb
   <tr> <td>Sex</td><td align=center colspan="3">37 males and 79 females</td>  </tr>
 </table>
 
-#### License
-We provide this software and its documentation for academic research purposes only, and it is NOT intended for commercial or clinical use.
-***
-Subcortical nuclei, thalamic nuclei, and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009)     
-v1.2.0 | Last update: 2024/10/31
+## License
+
+This software and its documentation are provided **for academic research purposes only**. They are **not intended for commercial or clinical use**.
+
+---
+
+**Acknowledgments**
+
+Subcortical nuclei, thalamic nuclei, and white matter labels are adapted from [MuSus-100](https://doi.org/10.1007/s00429-022-02547-1) and [ICBM-DTI-81](https://doi.org/10.1016/j.neuroimage.2008.07.009).
+
+**Version:** v1.2.0  
+**Last Updated:** 2024/10/31
+
+---
