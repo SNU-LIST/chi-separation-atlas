@@ -1,17 +1,27 @@
 ROI_name,Mean,SD
-Inferior cerebellar peduncle,29.4,2.5
-Pontine crossing tract,34.2,4.3
-Body of corpus callosum,34.4,2.5
-Splenium of corpus callosum,40.8,2.9
-Posterior limb of internal capsule,50,2.9
-Retrolenticular part of internal capsule,38.2,3.2
-Anterior corona radiata R,25.6,3.3
-Anterior corona radiata L,27.5,2.6
-Superior corona radiata,31.4,2.8
-Posterior corona radiata,31.8,2.4
-Posterior thalamic radiation,38.3,3.6
-Sagittal stratum,34.9,3.2
-Superior longitudinal fasciculus R,30.9,3.4
-Superior longitudinal fasciculus L,32.5,2.8
-Superior fronto-occipital fasciculus,39.5,4.7
-Whole white matter,28.8,1.9
+Caudate,-8.216348386,4.891043121
+Putamen,-10.28082545,5.895600836
+Globus pallidus,-12.60152098,7.269345948
+Nucleus accumbens,-23.37647268,5.646276546
+Substantia nigra,-11.13989711,4.536405077
+Red nucleus,-10.12768113,4.053455206
+Ventral pallidum,-22.13919475,13.11514313
+Subthalamic nucleus,-15.26555612,5.88505112
+Medial thalamic nuclei,-11.83443712,5.857719696
+Lateral thalamic nuclei,-22.38582428,4.714232035
+Pulvinar,-4.401549217,3.183407347
+Whole thalamus,-20.77269791,3.586066006
+Genu of corpus callosum,-30.80504007,2.871594652
+Body of of corpus callosum,-35.09916789,2.577820003
+Splenium of corpus callosum,-42.32551306,3.057302696
+Cerebral peduncle,-43.67589786,4.085760747
+Anterior limb of internal capsule,-41.31642684,3.966933496
+Posterior limb of internal capsule,-52.16906887,3.012242589
+Retrolenticular part of internal capsule,-39.34370974,3.3224332
+Anterior corona radiata,-27.09770069,2.872501994
+Superior corona radiata,-31.65982512,2.92407083
+Posterior corona radiata,-31.98328347,2.465058873
+Posterior thalamic radiation,-41.05351594,3.991948837
+Sagittal stratum,-36.49575938,3.852165539
+Superior longitudinal fasciculus,-32.66708412,2.878153549
+Whole white matter,-28.76600935,1.948013656

@@ -1,8 +1,27 @@
 ROI_name,Mean,SD
-Caudate,47.7,7.4
-Putamen,77.1,20.6
-Globus pallidus,131.9,10.4
-Substantia nigra,115.7,14.4
-Red nucleus,112,14.8
-Medial lemniscus,23.9,2.9
-Superior longitudinal fasciculus,21.3,1.5
+Caudate,47.66004213,7.406195886
+Putamen,77.11459585,20.63681703
+Globus pallidus,131.907178,10.4316186
+Nucleus accumbens,45.35981877,13.21983096
+Substantia nigra,115.6725884,14.44848139
+Red nucleus,111.9682713,14.78589336
+Ventral pallidum,144.2800081,26.96848335
+Subthalamic nucleus,112.0724313,12.08627626
+Medial thalamic nuclei,31.19423365,7.578158306
+Lateral thalamic nuclei,21.98248029,5.152745202
+Pulvinar,52.12165518,11.55502134
+Whole thalamus,22.86467037,4.079807908
+Genu of corpus callosum,17.8222452,1.875426067
+Body of of corpus callosum,14.77379084,1.906993304
+Splenium of corpus callosum,16.50840097,2.616946862
+Cerebral peduncle,23.47426171,2.824214322
+Anterior limb of internal capsule,14.51537593,2.171699944
+Posterior limb of internal capsule,8.229576792,2.67630803
+Retrolenticular part of internal capsule,18.02232389,2.861407464
+Anterior corona radiata,13.89645044,1.666573833
+Superior corona radiata,14.13288502,1.585437379
+Posterior corona radiata,13.96320989,2.308326109
+Posterior thalamic radiation,12.86674981,2.492296176
+Sagittal stratum,17.26014555,2.235544008
+Superior longitudinal fasciculus,22.55559383,1.619102285
+Whole white matter,16.80312468,1.112468622
